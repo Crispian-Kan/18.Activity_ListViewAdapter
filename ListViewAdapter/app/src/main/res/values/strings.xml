@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewAdapter</string>
+    <string name="title">RecyclerView Test</string>
+    <string name="mag">左右滑動可刪除</string>
+</resources>
